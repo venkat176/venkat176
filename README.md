@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venkat176
+- 👋 Hi, I’m Venkat Sai
 - 👀 I’m interested in coding and travelling
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on coding enthusiast
