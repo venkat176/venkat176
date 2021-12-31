@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Venkat Sai
 - 👀 I’m interested in coding and travelling
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on coding enthusiast
+- 💞️ I’m looking to collaborate on coding enthusiasts and future aspirants
 - 📫 How to reach me ...
 
 <!---
